@@ -16,11 +16,21 @@ Exemplo de Saída
 5
 */
 
-int number = int.Parse(Console.ReadLine());
+using System;
 
-for (int i = 0; i < number; i++)
+namespace DIO
 {
-    var esferas = int.Parse(Console.ReadLine());
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int number = int.Parse(Console.ReadLine());
 
-    Console.WriteLine(esferas - Math.Floor(Math.Sqrt(esferas)));
+            for (int i = 0; i < number; i++)
+            {
+                var esferas = int.Parse(Console.ReadLine());
+                Console.WriteLine(esferas - Math.Floor(Math.Sqrt(esferas)));
+            }
+        }
+    }
 }

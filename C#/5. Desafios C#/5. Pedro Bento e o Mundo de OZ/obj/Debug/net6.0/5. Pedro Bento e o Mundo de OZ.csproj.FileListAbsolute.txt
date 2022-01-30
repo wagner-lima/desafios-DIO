@@ -1,0 +1,15 @@
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\bin\Debug\net6.0\5. Pedro Bento e o Mundo de OZ.exe
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\bin\Debug\net6.0\5. Pedro Bento e o Mundo de OZ.deps.json
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\bin\Debug\net6.0\5. Pedro Bento e o Mundo de OZ.runtimeconfig.json
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\bin\Debug\net6.0\5. Pedro Bento e o Mundo de OZ.dll
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\bin\Debug\net6.0\ref\5. Pedro Bento e o Mundo de OZ.dll
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\bin\Debug\net6.0\5. Pedro Bento e o Mundo de OZ.pdb
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\obj\Debug\net6.0\5. Pedro Bento e o Mundo de OZ.csproj.AssemblyReference.cache
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\obj\Debug\net6.0\5. Pedro Bento e o Mundo de OZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\obj\Debug\net6.0\5. Pedro Bento e o Mundo de OZ.AssemblyInfoInputs.cache
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\obj\Debug\net6.0\5. Pedro Bento e o Mundo de OZ.AssemblyInfo.cs
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\obj\Debug\net6.0\5. Pedro Bento e o Mundo de OZ.csproj.CoreCompileInputs.cache
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\obj\Debug\net6.0\5. Pedro Bento e o Mundo de OZ.dll
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\obj\Debug\net6.0\ref\5. Pedro Bento e o Mundo de OZ.dll
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\obj\Debug\net6.0\5. Pedro Bento e o Mundo de OZ.pdb
+D:\dev\desafios-DIO\C#\5. Desafios C#\5. Pedro Bento e o Mundo de OZ\obj\Debug\net6.0\5. Pedro Bento e o Mundo de OZ.genruntimeconfig.cache
